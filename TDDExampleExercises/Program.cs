@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace TDDExampleProblems
+namespace TDDExampleExercises
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Simple TDD Exercises");
         }
     }
 }
